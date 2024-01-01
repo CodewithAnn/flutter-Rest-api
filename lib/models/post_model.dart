@@ -22,4 +22,3 @@ class PostModel {
     return data;
   }
 }
-
